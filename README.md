@@ -9,4 +9,4 @@
 
 ### Important links:
 * [Dataset](https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh)
-* [Project Folder on Drive](https://drive.google.com/drive/folders/1vnapi048bbmoXyoxOLLX6W_tA6a1uQ9w?usp=sharing)
+* [Project Folder on Drive](https://drive.google.com/drive/folders/1Eiuooh60n0h3aiAhYOZgpC13_Ok6I4bZ?usp=share_link)
