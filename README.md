@@ -1,3 +1,4 @@
+![download (2)](https://user-images.githubusercontent.com/57935250/226848239-e7d04ccf-8dc3-46ac-b4a8-a8f32e08c377.jpeg)
 # Flight Price Prediction Machine Learning Application
 This is a machine learning application that uses historical flight data to predict the price of future flights. The application is built using Python and scikit-learn, and it includes a web interface where users can enter flight details and get a predicted price for their desired flight.
 
@@ -22,6 +23,5 @@ Once you have entered this information, click on the "Predict Price" button to g
 ## Training the Model
 If you want to train the machine learning model yourself, you can use the train.py file. This file contains the code to preprocess the historical flight data, train a machine learning model using scikit-learn, and save the trained model to a file. You can modify this code to use your own data and machine learning algorithm if you wish.
 
-## ![download](https://user-images.githubusercontent.com/57935250/226847478-72ad5cbf-237e-4967-835a-d947559b6735.jpeg)
-Acknowledgements
+## Acknowledgements
 This project was inspired by the work of many researchers and developers in the field of machine learning and data science. We would like to acknowledge their contributions and thank them for their work.
