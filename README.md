@@ -23,5 +23,8 @@ Once you have entered this information, click on the "Predict Price" button to g
 ## Training the Model
 If you want to train the machine learning model yourself, you can use the train.py file. This file contains the code to preprocess the historical flight data, train a machine learning model using scikit-learn, and save the trained model to a file. You can modify this code to use your own data and machine learning algorithm if you wish.
 
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 ## Acknowledgements
 This project was inspired by the work of many researchers and developers in the field of machine learning and data science. We would like to acknowledge their contributions and thank them for their work.
