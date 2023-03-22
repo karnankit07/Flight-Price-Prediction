@@ -1,10 +1,27 @@
-# Flight Fare Prediction - a Classic Time Series Project
-* Flight fare prediction is a classical problem of time series forecasting that finds trends in past observations to outline the future
-* In this project, I have build a Python Flight Fare Prediction App, that returns the fare prediction for a given set of travel details, like:  departure date, arrival date, departure city, arrival city, stoppages, and the airline carrier.
-* The Airline Flight Fare Prediction project is to predict airline flight fares across the Indian cities. 
-* The dataset for the project is taken from Kaggle, and it is a time-stamped dataset so, while building the model, extensive pre-processing was done on the dataset especially on the date-time columns to finally come up with a ML model which could effectively predict airline fares across various Indian Cities. 
-* The dataset had many features which had to pre-processed and transformed into new parameters for a cleaner and simple web application layout to predict the fares. 
+# Flight Price Prediction Machine Learning Application
+This is a machine learning application that uses historical flight data to predict the price of future flights. The application is built using Python and scikit-learn, and it includes a web interface where users can enter flight details and get a predicted price for their desired flight.
 
-### Important links:
-* [Dataset](https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh)
-* [Project Folder on Drive](https://drive.google.com/drive/folders/1Eiuooh60n0h3aiAhYOZgpC13_Ok6I4bZ?usp=share_link)
+## Installation
+To install and run this application, follow these steps:
+
+1. Clone this repository to your local machine.
+2. Create a new virtual environment using virtualenv or conda.
+3. Activate the virtual environment.
+4. Install the dependencies using pip install -r requirements.txt.
+5. Run the app.py file to start the application.
+ 
+## Usage
+To use the application, open your web browser and go to http://localhost:5000. You will see a simple form where you can enter the following information:
+
+1. Departure city
+2. Destination city
+3. Departure date
+4. Number of passengers
+Once you have entered this information, click on the "Predict Price" button to get a predicted price for your desired flight. The application uses a machine learning model that has been trained on historical flight data to make this prediction.
+
+## Training the Model
+If you want to train the machine learning model yourself, you can use the train.py file. This file contains the code to preprocess the historical flight data, train a machine learning model using scikit-learn, and save the trained model to a file. You can modify this code to use your own data and machine learning algorithm if you wish.
+
+## ![download](https://user-images.githubusercontent.com/57935250/226847478-72ad5cbf-237e-4967-835a-d947559b6735.jpeg)
+Acknowledgements
+This project was inspired by the work of many researchers and developers in the field of machine learning and data science. We would like to acknowledge their contributions and thank them for their work.
